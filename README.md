@@ -1,1 +1,1 @@
-# Breast_Cancer_Detection
+# Rock_vs_Mine_Prediction_ML_Project
